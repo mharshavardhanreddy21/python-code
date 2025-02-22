@@ -1,6 +1,6 @@
 import os
 for i in range(len(a)):
-if a[i]=='H'
-print 'h'
+if a[i]=='Harsha'
+print 'harsha'
 else
-print 'a'
+print 'aks'
